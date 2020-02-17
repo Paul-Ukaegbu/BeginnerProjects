@@ -24,5 +24,5 @@ else if(passPhrase == "Hello World") {
 
 num1 = 1
 num2 = 5
-if (num1 < 5)
-console.log("It is less than five");
+if (num1 < 20)
+console.log("It is less than 20");
